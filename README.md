@@ -14,6 +14,10 @@ end
 
 ## Usage
 
+```crystal
+require "timestamp"
+```
+
 ### Create `Time` from timestamp:
 
 ```crystal
