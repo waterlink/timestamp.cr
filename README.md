@@ -17,7 +17,7 @@ end
 ### Create `Time` from timestamp:
 
 ```crystal
-puts Time.from_timestamp(1427042133.035) #=> ::TODO::
+puts Time.from_timestamp(1427042133.035) #=> 2015-03-22 16:35:33
 ```
 
 ### Get timestamp from `Time` instance:
